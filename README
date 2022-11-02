@@ -1,13 +1,14 @@
 Welcome to the repository of Group 4 for the QTM350 Final Project! 
 
-We will be investigating how AWS Forecast does in backtesting Economic Stock Data and the records NFL Teams year-by-year.
+We will be investigating how AWS Translate compares to the popularly used Google Translate. Our specific comparison will focus English and Spanish.
+We will begin with common, simple sentences and progress to sentences deemed "difficult or untranslatable" all the while comparing AWS Translate to Google Translate
 
 TODO:
-  Data (needs to be csv format and placed in the data branch)
-    - Find economic stock price data from 2000-2020 (we will be forecasting the data from 2000-2010 and then comparing against what actually happened)
-    - Find NFL Team Record data from as far back as record data was kept (for multiple teams)
+  Data 
+    - Collect a list of common phrases in English
+    - Collect a list of complicated phrases in English
     
-    - When data has been collected, we can produce analysis in the form of visualization and forecast data
+    - Once translations are run, conduct analysis on differences in results
    
   Architecture
     - Create an AWS architecture diagram on draw.io and upload to architecture branch
@@ -16,6 +17,6 @@ TODO:
     - Share blog link under blog branch
     
   ML API
-    - Similar to HW3, we need to create a walkthrough on AWS Forecast
+    - Similar to HW3, we need to create a walkthrough on AWS Translate
   
   
