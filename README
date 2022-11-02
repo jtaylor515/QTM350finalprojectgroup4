@@ -1,2 +1,21 @@
 Welcome to the repository of Group 4 for the QTM350 Final Project! 
+
 We will be investigating how AWS Forecast does in backtesting Economic Stock Data and the records NFL Teams year-by-year.
+
+TODO:
+  Data (needs to be csv format and placed in the data branch)
+    - Find economic stock price data from 2000-2020 (we will be forecasting the data from 2000-2010 and then comparing against what actually happened)
+    - Find NFL Team Record data from as far back as record data was kept (for multiple teams)
+    
+    - When data has been collected, we can produce analysis in the form of visualization and forecast data
+   
+  Architecture
+    - Create an AWS architecture diagram on draw.io and upload to architecture branch
+  
+  Blog (needs to be a JupyterLab notebook hosted on AWS)
+    - Share blog link under blog branch
+    
+  ML API
+    - Similar to HW3, we need to create a walkthrough on AWS Forecast
+  
+  
