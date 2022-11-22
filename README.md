@@ -8,11 +8,6 @@ We will begin with common, simple sentences and progress to sentences deemed "di
 We will also work through translating an essay from English to Spanish, and evaluating the translatino capabilities of AWS Translate. 
 
 [Here](https://group4final.s3.amazonaws.com/Final_Group_4.html) is the link to the blogpost, which contains all our code and analysis. Necessary files are available on this github, and below is a diagram for our usage of Translate:
-
-
-  
-  
- ![QTM 350](https://ryankim.s3.amazonaws.com/QTM+350.png)
     
  ![Diagram.png](https://github.com/jtaylor515/QTM350finalprojectgroup4/blob/fdfd5a1d4ef2ccb55e173c7b01eb0dea28ff8c5d/Diagram.png)
 
