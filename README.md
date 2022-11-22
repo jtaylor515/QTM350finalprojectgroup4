@@ -1,4 +1,4 @@
-## QTM 350 Final Project
+## QTM 350 Final Project (Group 8)
 ### By Arjun, David, Ryan, Jeffrey, and Jacob
 
 Welcome to the repository of Group 8 for the QTM350 Final Project!
