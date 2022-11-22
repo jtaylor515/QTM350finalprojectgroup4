@@ -14,5 +14,5 @@ We will also work through translating an essay from English to Spanish, and eval
   
  ![QTM 350](https://ryankim.s3.amazonaws.com/QTM+350.png)
     
- ![350.Final.Diagram.pdf](https://github.com/jtaylor515/QTM350finalprojectgroup4/files/10063047/350.Final.Diagram.pdf)
+ ![Diagram.png](https://github.com/jtaylor515/QTM350finalprojectgroup4/blob/fdfd5a1d4ef2ccb55e173c7b01eb0dea28ff8c5d/Diagram.png)
 
